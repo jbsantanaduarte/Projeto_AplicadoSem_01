@@ -3,7 +3,8 @@ Repositório do Conteúdo do projeto aplicado do curso de Ciência de Dados
 
 Os dados das empresas trabalhadas neste projeto estão disponíveis em:
 https://dadosabertos.rfb.gov.br/CNPJ/
-/nHeatmap produzido com os dados:
+
+Heatmap produzido com os dados:
 https://jbsantanaduarte.github.io/Projeto_Aplicado/
 
 
