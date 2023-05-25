@@ -10,3 +10,14 @@ Heatmap produzido com os dados:
 [https://jbsantanaduarte.github.io/Projeto_Aplicado/](https://jbsantanaduarte.github.io/Projeto_AplicadoSem_01/)
 
 
+EQUIPE (MATRÍCULA - NOME):
+22514971 - JOSÉ BRUNO SANTANA DUARTE
+NICOLAS PINOTTI
+JOAO ARTHUR CAVALCANTI SILVA
+VINICIUS VIEIRA DA CUNHA OLIVEIRA
+
+APRESENTAÇÃO:
+https://prezi.com/view/Q2m4MuEkIoAMM1hDHBeS/
+YOUTUBE:
+
+DOCUMENTO:
