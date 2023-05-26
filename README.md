@@ -1,5 +1,5 @@
 # Projeto_AplicadoSem_01
-Repositório do Conteúdo do projeto aplicado do curso de Ciência de Dados
+Repositório do Conteúdo do projeto aplicado do curso de **Ciência de Dados**
 
 O objetivo do trabalho é identificar o quão distantes estão as agências dos Correios de Fortaleza/CE das empresas cadastradas na Receita Federal como pertencentes ao município. Em adição a isso, aplicando o algoritmo k-means, pretende-se redistribuir essas mesmas agências e verificar se a variável distância seria alterada e as agências reposicionadas em tese com menores distâncias, facilitando àquelas empresas uma redução da distância.
 
@@ -14,18 +14,16 @@ Heatmap produzido com os dados:
 
 EQUIPE (MATRÍCULA - NOME):
 
-22514971 - JOSÉ BRUNO SANTANA DUARTE
+22514971 - **JOSÉ BRUNO** SANTANA DUARTE
 
-NICOLAS PINOTTI
+22514112 - **NICOLAS PINOTTI**
 
-JOAO ARTHUR CAVALCANTI SILVA
+22503722 - **JOAO ARTHUR** CAVALCANTI SILVA
 
-VINICIUS VIEIRA DA CUNHA OLIVEIRA
+22503722 - **VINICIUS VIEIRA** DA CUNHA OLIVEIRA
 
 APRESENTAÇÃO:
 
 https://prezi.com/view/Q2m4MuEkIoAMM1hDHBeS/
 
 YOUTUBE:
-
-DOCUMENTO:
